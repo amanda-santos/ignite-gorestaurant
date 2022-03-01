@@ -9,7 +9,7 @@ import { Form } from './styles';
 type ModalEditFoodProps = {
   isOpen: boolean;
   setIsOpen: () => void;
-  editingFood: Food;
+  editingFood: Partial<Food>;
   handleUpdateFood: (food: FormFood) => void;
 };
 

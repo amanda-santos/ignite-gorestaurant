@@ -13,7 +13,7 @@
       "name": "Veggie Pizzasa",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.99",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
@@ -23,30 +23,6 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "bbbbbbbb",
-      "name": "bbbbbbbbb",
-      "price": "22222222",
-      "description": "bbbbbbbbbb",
-      "available": true,
-      "id": 4
-    },
-    {
-      "image": "sddssdsd",
-      "name": "sdsdssd",
-      "price": "212222222",
-      "description": "sdsdsd",
-      "available": false,
-      "id": 5
-    },
-    {
-      "image": "aaaaaaaaaaaaaaaa",
-      "name": "sdsdds",
-      "price": "212121",
-      "description": "dsdssd",
-      "available": true,
-      "id": 6
     }
   ]
 }
