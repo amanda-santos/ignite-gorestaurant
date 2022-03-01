@@ -6,3 +6,5 @@ export type Food = {
   available: boolean;
   image: string;
 };
+
+export type FormFood = Omit<Food, "id" | "available">;
