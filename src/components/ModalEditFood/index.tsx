@@ -3,7 +3,7 @@ import { FiCheckSquare } from 'react-icons/fi';
 
 import { Food, FormFood } from '../../types';
 import { Input } from '../Input';
-import Modal from '../Modal';
+import { Modal } from '../Modal';
 import { Form } from './styles';
 
 type ModalEditFoodProps = {
