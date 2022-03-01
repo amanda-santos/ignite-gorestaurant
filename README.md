@@ -28,7 +28,7 @@
 
 ## 📝 About the project
 
-<p>In GoRestaurant you can manage your restaurant with the best Italian food. Developed as Challenge #4 of Ignite React (Rocketseat).</p>
+<p>In GoRestaurant you can manage your restaurant with the best Italian food. Moved all files to TypeScript and Function Components as Challenge #4 of Ignite React (Rocketseat).</p>
 
 ## 👩🏻‍💻 Technologies
 
